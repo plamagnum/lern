@@ -1,0 +1,22 @@
+body {
+    background-color: #A2D9CE;
+}
+h1 {
+    color: #1A5276;
+    }
+
+ul {
+    margin: 10px;
+}
+
+li {
+    color: blue;
+    font-family: verdana;
+    font-size: 160%;
+    list-style: none;
+    margin-left: 100px;
+    border-radius: 3px;
+    padding-left: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+    margin-right: 80%;
+}
